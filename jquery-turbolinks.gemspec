@@ -24,6 +24,5 @@ Gem::Specification.new do |gem|
 
   gem.rubygems_version  = '1.8.15'
 
-  gem.add_dependency 'railties', '>= 3.1.0'
   gem.add_dependency 'turbolinks'
 end
